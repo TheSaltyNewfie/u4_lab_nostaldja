@@ -48,7 +48,3 @@ Each Decade should have many Fads (One to Many relationship)
 
 
 
-
-## Submission
-
-- Pull request utilizing this template: [PR Guidelines](https://github.com/SEI-R-6-21/template_pull_request)
