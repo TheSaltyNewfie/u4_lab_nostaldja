@@ -8,9 +8,10 @@ In this lab, we'll build an app called Nostaldja, an app for tracking fads acros
 
 ## Instructions
 
-1. Follow the [installation instructions](https://github.com/SEI-R-11-8/u4_django_install_and_models)
+
 1. Set up your virtual environment and activate it.
 1. Install dependencies.
+1. Follow the Django set up instructions!
 1. Fulfill the listed requirements.
 
 
