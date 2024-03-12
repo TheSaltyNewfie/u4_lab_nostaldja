@@ -49,7 +49,7 @@ Each Decade should have many Fads (One to Many relationship)
 
 ### Bonus 
 
-We are coming to terms with the fact that some of our students were born in the 21st century (my knee hurts). Which means some of you may not know these older fads, and may want to add in some more modern ones
+We are coming to terms with the fact that some of our students were born in the 21st century. Which means some of you may not know these older fads, and may want to add in some more modern ones
 
 - Add in more decades (00's, Tens, Twenties...) and any respective fads from each (Memes, planking, tik tok, whatever else the kids are doing these days)
 - But wait! It'd be terrible UX to have the 80's, 90's and 00's all set together, what if we wanted to do the 1920's, or the 2080's? Create a 3rd model called Century and relate your decades into this new model
